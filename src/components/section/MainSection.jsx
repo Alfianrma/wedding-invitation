@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 function MainSection() {
   return (
     <Container
+      flex="1"
       padding="0"
       backgroundSize="100%"
       bgAttachment="fixed"
