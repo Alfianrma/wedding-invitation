@@ -6,7 +6,6 @@ function MainSection() {
   return (
     <Container
       padding="0"
-      flex="3"
       backgroundSize="100%"
       bgAttachment="fixed"
       bgImage="url('https://ik.imagekit.io/drpq5xrph/Template%20Tiffany%20&%20Jared/Desktop.jpg?updatedAt=1698223781539')"

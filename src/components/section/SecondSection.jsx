@@ -4,7 +4,6 @@ import { Box, Text, Button } from "@chakra-ui/react";
 function SecondSection({ isOpen, setOpen }) {
   return (
     <Box
-      flex="2"
       minW="625px"
       maxW="625px"
       backgroundPositionY="top"

@@ -27,7 +27,6 @@ function ScrollableSection() {
   const SLIDES = Array.from(Array(SLIDE_COUNT).keys());
   return (
     <Box
-      flex="2"
       minW="625px"
       maxW="625px"
       overflowY="auto"
